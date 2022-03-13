@@ -11,3 +11,7 @@ https://www.convertcsv.com/json-to-csv.htm
 ### Convert CSV to KML
 
 https://www.convertcsv.com/csv-to-kml.htm
+
+## Prepared datasets
+
+In the current directory prepared datasets for cities in *.json and *.kml formats exist. You can use it to import in your applications that support such formats.
