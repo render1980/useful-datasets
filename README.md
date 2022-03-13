@@ -1,13 +1,11 @@
 # useful-datasets
-Datasets with helpful information everyone should know
+Datasets with helpful information everyone should know.
 
 ## Description
 
-_Maps.me, osmand_ support KML files. You can import KML files in these applications to have your required maps in your mobile phones (in online or offline modes).
+_Maps.me, osmand_ support KML files. You can import KML files in these applications to have your required maps in your mobile phones (in online or offline modes). [Detailed instruction for Maps.me](https://mapsme.zendesk.com/hc/en-us/articles/207895029-How-to-import-bookmarks-)
 
-For example, you can create your own map in Google Maps and export it as a KML file. **Be attentive, coordinates should be defined in resulted KML file to show objects!**
-
-You can also get KML files from JSON (json -> csv -> kml conversion chain) or from CSV (csv -> kml).
+You can also get KML files from JSON (json -> csv -> kml conversion chain) or from CSV (csv -> kml) in case if a source doesn't support export to KML.
 
 ### Convert JSON to CSV
 
